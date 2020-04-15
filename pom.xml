@@ -149,5 +149,12 @@
             </plugin>
         </plugins>
     </build>
+    
+         <developers>
+         <developer>
+             <name>Iana Neri</name>
+             <email>iana@example.com</email>
+         </developer>
+     </developers>
 
 </project>
